@@ -1,0 +1,6 @@
+{
+  "name": "Corporate AI/ML Engineer Skill OS & Socratic Tutor",
+  "description": "An engineering-first competency OS, Socratic tutor, and hands-on failure lab for mastering AI/ML systems from computing foundations to production architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
